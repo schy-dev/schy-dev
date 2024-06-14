@@ -1,16 +1,23 @@
 ## Hi there 👋
+👨‍💻 Full-Stack Developer | Open Source Enthusiast | Code Artisan
 
-<!--
-**schy-dev/schy-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Currently crafting innovative solutions with Node.js, Express, and MongoDB.
 
-Here are some ideas to get you started:
+✨ Passionate about creating clean, efficient, and scalable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Proficient in:
+
+Frontend: HTML, CSS, JavaScript, React.js
+Backend: Node.js, Express, MongoDB
+DevOps: Docker, Kubernetes, CI/CD
+💡 Believer in continuous learning and knowledge sharing.
+
+📚 Currently diving deep into:
+
+Advanced React Patterns
+Microservices Architecture
+Cloud Computing with AWS
+🔭 Explore my latest project: Laughing Winner – A platform to submit jokes and vote on the funniest one. Check it out here.
+
+📫 Connect with me for collaboration, discussion, and all things tech!
+Visit - https://shashank-shekhar.in
